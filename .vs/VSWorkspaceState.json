@@ -1,10 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\MegaDeskASP",
-    "\\MegaDeskASP\\Pages",
-    "\\MegaDeskASP\\Pages\\Shared"
+    ""
   ],
-  "SelectedNode": "\\MegaDeskASP\\Pages\\Shared\\_Layout.cshtml",
+  "SelectedNode": "\\MegaDeskASP.csproj.user",
   "PreviewInSolutionExplorer": false
 }
